@@ -5,7 +5,7 @@ import navbar from './config/navbar'
 import sidebar from './config/sidebar'
 
 export default {
-    title: 'vuePress-demo',
+    title: 'vuePressBlog',
     base: '/',
     theme: defaultTheme({
         logo: '/images/logo/white.jpg',
